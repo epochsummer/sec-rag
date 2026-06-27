@@ -1,0 +1,9 @@
+fastapi # to make an API 
+uvicorn[standard] # To make a server
+pydantic # check if request/response are correct
+requests
+sentence-transformers # convert chunks into vectors
+psycopg[binary] # Python send SQL commands to PostgreSQL and get results back.
+pgvector # make able to compare vectors
+redis # cache
+beautifulsoup4 # Parses HTML.

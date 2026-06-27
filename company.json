@@ -1,0 +1,42 @@
+{
+  "apple": {
+    "name": "Apple Inc.",
+    "ticker": "AAPL"
+  },
+  "microsoft": {
+    "name": "Microsoft Corporation",
+    "ticker": "MSFT"
+  },
+  "amazon": {
+    "name": "Amazon.com, Inc.",
+    "ticker": "AMZN"
+  },
+  "alphabet": {
+    "name": "Alphabet Inc.",
+    "ticker": "GOOGL"
+  },
+  "nvidia": {
+    "name": "NVIDIA Corporation",
+    "ticker": "NVDA"
+  },
+  "jpmorgan": {
+    "name": "JPMorgan Chase & Co.",
+    "ticker": "JPM"
+  },
+  "johnson_and_johnson": {
+    "name": "Johnson & Johnson",
+    "ticker": "JNJ"
+  },
+  "exxonmobil": {
+    "name": "Exxon Mobil Corporation",
+    "ticker": "XOM"
+  },
+  "coca_cola": {
+    "name": "The Coca-Cola Company",
+    "ticker": "KO"
+  },
+  "walmart": {
+    "name": "Walmart Inc.",
+    "ticker": "WMT"
+  }
+}
